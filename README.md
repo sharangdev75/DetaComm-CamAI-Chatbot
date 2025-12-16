@@ -1,3 +1,7 @@
+## UI Preview
+
+![CamAI Chatbot UI](camAI.png)
+
 # DetaComm CamAI Chat Bot
 
 A Streamlit-based AI assistant that lets you chat with your uploaded documents using:
@@ -32,6 +36,3 @@ git commit -m "Add README"
 git push
 
 
-## UI Preview
-
-![CamAI Chatbot UI](camAI.png)
