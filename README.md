@@ -6,6 +6,11 @@ A Streamlit-based AI assistant that lets you chat with your uploaded documents u
 - FAISS vector store
 - HuggingFace sentence embeddings (`all-MiniLM-L6-v2`)
 
+
+## UI Preview
+
+![CamAI Chatbot UI](camai-ui.png)
+
 ## How to run
 
 ```bash
