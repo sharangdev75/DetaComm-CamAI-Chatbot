@@ -4,6 +4,7 @@
 
 ![CamAI Chatbot UI](camAI.png)
 
+
 A Streamlit-based AI assistant that lets you chat with your uploaded documents using:
 
 - Groq LLM (`llama-3.3-70b-versatile`)
