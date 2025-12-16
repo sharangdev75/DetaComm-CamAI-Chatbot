@@ -7,9 +7,7 @@ A Streamlit-based AI assistant that lets you chat with your uploaded documents u
 - HuggingFace sentence embeddings (`all-MiniLM-L6-v2`)
 
 
-## UI Preview
 
-![CamAI Chatbot UI](camai-ui.png)
 
 ## How to run
 
@@ -32,3 +30,8 @@ Then:
 git add README.md
 git commit -m "Add README"
 git push
+
+
+## UI Preview
+
+[CamAI Chatbot UI](camai-ui.png)
