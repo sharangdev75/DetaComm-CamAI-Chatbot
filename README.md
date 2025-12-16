@@ -34,4 +34,4 @@ git push
 
 ## UI Preview
 
-![CamAI Chatbot UI](camai-ui.png)
+![CamAI Chatbot UI](camAI.png)
