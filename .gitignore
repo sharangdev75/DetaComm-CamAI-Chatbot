@@ -1,0 +1,17 @@
+# Env + secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if you ever create one here)
+venv/
+.env*/ 
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
