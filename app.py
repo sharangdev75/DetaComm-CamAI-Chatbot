@@ -51,7 +51,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader
 from pathlib import Path                                                         
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_huggingface import HuggingFaceEmbeddings  # ✅ updated
+from langchain_huggingface import HuggingFaceEmbeddings  # 
 from langchain_community.vectorstores import Chroma, FAISS
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
